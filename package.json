@@ -1,0 +1,16 @@
+{
+  "name": "ilham-nasul-fathon_21312104_pbs_if21a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "api-service": "nodemon index.js"
+  },
+  "author": "ilham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
